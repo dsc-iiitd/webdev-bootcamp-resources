@@ -8,7 +8,7 @@ We're going to intsall and setup the following applications to get started with 
 * Git
 * Create-react-app
 
-## <a></a>1. Installing VS Code
+## 1. Installing VS Code
 
 * **Windows and MacOS**: Download the [official package](https://code.visualstudio.com/) from the website and install.
 * **Linux**: follow along this [guide](https://code.visualstudio.com/docs/setup/linux).
@@ -68,6 +68,10 @@ $ sudo pacman -Syu git
 
 # 4. Installing create-react-app
 
+Finally install create-react-app using npm. We will use this package to generate a boilerplate react project in our next session.
+
 ```
 $ npm install -g create-react-app
 ```
+
+We're now ready to start developing our first website!
