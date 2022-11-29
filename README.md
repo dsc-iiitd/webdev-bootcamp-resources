@@ -66,7 +66,7 @@ $ sudo yum install git
 $ sudo pacman -Syu git
 ```
 
-# 4. Installing create-react-app
+## 4. Installing create-react-app
 
 Finally install create-react-app using npm. We will use this package to generate a boilerplate react project in our next session.
 
