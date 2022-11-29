@@ -362,6 +362,14 @@ function parentFun() {
 let childFun = parentFun();
 childFun();
 
+// ES6 Modules
+// Import and Export
+export function helloFun() {
+
+}
+
+import someFun from 'somefile';
+
 // JavaScript is a single-threaded non-blocking asynchronous concurrent programming language
 
 // async-await
